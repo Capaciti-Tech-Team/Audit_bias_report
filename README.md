@@ -85,7 +85,7 @@ git clone https://github.com/Rica350/Ai_bias_Audit.git
 cd Ai_bias_Audit
 ```
 
-Or view it directly on GitHub: 👉 [Ai\_bias\_Audit Repository](https://github.com/Rica350/Ai_bias_Audit)
+Or view it directly on GitHub: 👉 [Ai\_bias\_Audit Repository](https://github.com/Capaciti-Tech-Team/Audit_bias_report)
 
 ### **2. Open the Notebook**
 
